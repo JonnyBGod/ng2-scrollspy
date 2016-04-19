@@ -22,7 +22,7 @@
     "systemjs": "~0.19.6",
     "tslint": "^3.2.1",
     "typescript": "~1.8.10",
-    "typings": "^0.7.12",
+    "typings": "^0.8.0",
     "zone.js": "~0.6.4"
   },
   "bugs": {
