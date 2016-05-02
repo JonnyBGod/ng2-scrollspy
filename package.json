@@ -12,7 +12,7 @@
     "es6-shim": "^0.35.0",
     "jasmine-core": "~2.4.1",
     "karma": "~0.13.21",
-    "karma-chrome-launcher": "~0.2.2",
+    "karma-chrome-launcher": "~1.0.1",
     "karma-firefox-launcher": "~0.1.7",
     "karma-jasmine": "~0.3.6",
     "karma-typescript-preprocessor": "0.0.21",
