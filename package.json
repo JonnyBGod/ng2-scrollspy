@@ -13,7 +13,7 @@
     "@types/core-js": "^0.9.32",
     "@types/jasmine": "^2.2.29",
     "@types/node": "6.0.38",
-    "awesome-typescript-loader": "^2.2.4",
+    "awesome-typescript-loader": "^3.0.3",
     "codelyzer": "0.0.28",
     "commitizen": "^2.8.6",
     "concurrently": "^2.2.0",
