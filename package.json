@@ -14,7 +14,7 @@
     "@types/jasmine": "^2.2.29",
     "@types/node": "6.0.38",
     "awesome-typescript-loader": "^2.2.4",
-    "codelyzer": "0.0.28",
+    "codelyzer": "2.0.0",
     "commitizen": "^2.8.6",
     "concurrently": "^2.2.0",
     "core-js": "^2.4.1",
