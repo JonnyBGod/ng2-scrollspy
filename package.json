@@ -15,7 +15,7 @@
     "@types/node": "6.0.38",
     "awesome-typescript-loader": "^2.2.4",
     "codelyzer": "0.0.28",
-    "commitizen": "^2.8.6",
+    "commitizen": "^2.9.6",
     "concurrently": "^2.2.0",
     "core-js": "^2.4.1",
     "cz-conventional-changelog": "^1.2.0",
