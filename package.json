@@ -39,7 +39,7 @@
     "tslint-loader": "^3.4.2",
     "typescript": "^2.2.1",
     "webpack": "^2.2.1",
-    "zone.js": "^0.7.7"
+    "zone.js": "^0.8.0"
   },
   "bugs": {
     "url": "http://github.com/jonnybgod/ng2-scrollspy/issues"
