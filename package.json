@@ -35,7 +35,7 @@
     "source-map-loader": "^0.1.6",
     "systemjs": "^0.20.9",
     "ts-helpers": "^1.1.1",
-    "tslint": "^4.5.0",
+    "tslint": "^5.0.0",
     "tslint-loader": "^3.4.2",
     "typescript": "^2.2.1",
     "webpack": "^2.2.1",
