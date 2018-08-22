@@ -1,5 +1,5 @@
 import { Directive, Injectable, Input, OnInit, OnDestroy } from '@angular/core';
-import { ReplaySubject } from 'rxjs/ReplaySubject';
+import { ReplaySubject } from 'rxjs';
 import { ScrollSpyService } from './service';
 
 @Injectable()

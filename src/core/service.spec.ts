@@ -1,4 +1,4 @@
-import { ReplaySubject } from 'rxjs/ReplaySubject';
+import { ReplaySubject } from 'rxjs';
 import { ScrollSpyService } from './service';
 
 jasmine.DEFAULT_TIMEOUT_INTERVAL = 5000;
